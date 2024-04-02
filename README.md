@@ -1,2 +1,2 @@
-# Weather_Pointcloud
+# Weather Pointcloud Network
 ## The paper and code will coming soon!
