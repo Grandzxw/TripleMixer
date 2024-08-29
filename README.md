@@ -33,7 +33,7 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none;"><img src="Fig/kitti_semantic.png" width="45%"></td>
-    <td style="border: none;"><img src="Fig/nus_semantic.png" width="45%"></td>
+    <td style="border: none;"><img src="Fig/kitti_semantic.png" width="100%"></td>
+    <td style="border: none;"><img src="Fig/nus_semantic.png" width="100%"></td>
   </tr>
 </table>
