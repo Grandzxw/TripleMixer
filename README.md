@@ -26,7 +26,7 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 
 <table>
   <tr>
-    <td><img src="Fig/kitti_semantic.png" width="45%"></td>
-    <td><img src="Fig/nus_semantic.png" width="45%"></td>
+    <td><img src="Fig/kitti_semantic.png" width="100%"></td>
+    <td><img src="Fig/nus_semantic.png" width="100%"></td>
   </tr>
 </table>
