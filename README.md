@@ -34,3 +34,24 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 
 ### (2) Quantitative Result of Denoising Task
 <p align="center"> <img src="Fig/results.png" width="100%"> </p>
+
+
+### (4) Training and Evaluation
+
+
+### Citation
+If you find our work useful in your research, please consider citing:
+
+@misc{zhao2024triplemixer3dpointcloud,
+      title={TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather}, 
+      author={Xiongwei Zhao and Congcong Wen and Yang Wang and Haojie Bai and Wenhao Dou},
+      year={2024},
+      eprint={2408.13802},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.13802}, 
+}
+
+
+### Updates
+* 24/08/2024: Initial release and submitted to the Journal!
