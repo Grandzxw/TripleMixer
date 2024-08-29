@@ -39,6 +39,8 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 ### (4) Training and Evaluation
 
 
+
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
@@ -49,9 +51,8 @@ If you find our work useful in your research, please consider citing:
       eprint={2408.13802},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.13802}, 
-}
-
+      url={https://arxiv.org/abs/2408.13802}}
+```
 
 ### Updates
 * 24/08/2024: Initial release and submitted to the Journal!
