@@ -5,7 +5,7 @@
 This is the official repository of the **Weather-KITTI** and **Weather-NuScenes** dataset. For technical details, please refer to:
 
 **TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather** <br />
-[Xiongwei Zhao*](https://github.com/Grandzxw), [Congcong Wen*](https://scholar.google.com.sg/citations?user=OTBgvCYAAAAJ&hl=zh-CN&oi=ao), [Yang Wang], 
+[Xiongwei Zhao*](https://github.com/Grandzxw), [Congcong Wen*](https://scholar.google.com.sg/citations?user=OTBgvCYAAAAJ&hl=zh-CN&oi=ao), Yang Wang, 
 [Haojie Bai](https://www.researchgate.net/profile/Haojie-Bai), [Wenhao Dou](https://scholar.google.com.sg/citations?user=WMyb00gAAAAJ&hl=zh-CN&oi=ao). <br />
 
 **[[Paper](https://www.arxiv.org/abs/2408.13802)] [[Blog]()][[Download]()] ** <br />
