@@ -1,5 +1,4 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2009.03137-b31b1b.svg)](https://www.arxiv.org/abs/2408.13802)
-[![GitHub Stars]](https://github.com/Grandzxw/TripleMixer)
 
 
 # TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather
