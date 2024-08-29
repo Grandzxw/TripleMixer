@@ -24,14 +24,10 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 
 <p align="center"> <img src="Fig/frames.png" width="95%"> </p>
 
-<table>
+<table border="0">
   <tr>
     <td><img src="Fig/kitti_semantic.png" width="100%"></td>
     <td><img src="Fig/nus_semantic.png" width="100%"></td>
   </tr>
 </table>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Fig/kitti_semantic.png" style="width: 45%;">
-  <img src="Fig/nus_semantic.png" style="width: 45%;">
-</div>
