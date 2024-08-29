@@ -10,9 +10,9 @@ This is the official repository of the **Weather-KITTI** and **Weather-NuScenes*
 
 **[[Paper](https://www.arxiv.org/abs/2408.13802)] [[Blog]()][[Download]()] ** <br />
 
-### (1) Dataset
+### 1. Dataset
 
-#### 1 Overview
+#### (1) Overview
 
 In this Work, we propose our synthetic adverse weather datasets, named **Weather-KITTI** and **Weather-NuScenes**, which are based on the [SemanticKITTI](https://www.semantic-kitti.org/) and [nuScenes-lidarseg](https://www.nuscenes.org/) datasets, respectively. These datasets cover three common adverse weather conditions: rain, fog, and snow and retain the original LiDAR acquisition information and provide point-level semantic labels for rain, fog, and snow.
 
@@ -20,7 +20,7 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 <p align="center"> <img src="Fig/comparison.png" width="95%"> </p>
 
 
-#### 2 Dataset Statistics
+#### (2) Dataset Statistics
 
 <p align="center"> <img src="Fig/frames.png" width="95%"> </p>
 
@@ -32,11 +32,11 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 </table>
 
 
-### (2) Quantitative Result of Denoising Task
+### 2. Quantitative Result of Denoising Task
 <p align="center"> <img src="Fig/results.png" width="100%"> </p>
 
 
-### (3) Training and Evaluation
+### 3. Training and Evaluation
 
 Continuous Updates！
 
