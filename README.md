@@ -57,7 +57,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Updates
-* 24/08/2024: Initial release and submitted to the Journal!
+* 24/08/2024: Initial release and submitted to the Journal. The dataset will be open source soon!
 
 
 ### License
