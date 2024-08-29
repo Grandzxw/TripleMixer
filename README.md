@@ -58,3 +58,7 @@ If you find our work useful in your research, please consider citing:
 
 ### Updates
 * 24/08/2024: Initial release and submitted to the Journal!
+
+
+### License 
+The dataset is based on the [SemanticKITTI](https://www.semantic-kitti.org/) and [nuScenes-lidarseg](https://www.nuscenes.org/) datasets and is provided under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License (CC BY-NC-SA 3.0 US)](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
