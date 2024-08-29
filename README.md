@@ -31,3 +31,5 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
   </tr>
 </table>
 
+
+### (2) Quantitative Result of Denoising Task
