@@ -36,7 +36,7 @@ In this Work, we propose our synthetic adverse weather datasets, named **Weather
 <p align="center"> <img src="Fig/results.png" width="100%"> </p>
 
 
-### (4) Training and Evaluation
+### (3) Training and Evaluation
 
 Continuous Updates！
 
