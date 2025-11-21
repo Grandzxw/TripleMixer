@@ -201,6 +201,20 @@ You can generate your own Adverse Weather Dataset on other LiDAR-based point clo
 
 ## Citation
 If you find our work useful in your research, please consider citing:
+
+```bibtex
+@ARTICLE{11262787,
+  author={Zhao, Xiongwei and Wen, Congcong and Zhu, Xu and Wang, Yang and Bai, Haojie and Dou, Wenhao},
+  journal={IEEE Transactions on Image Processing}, 
+  title={TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising under Adverse Weather}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Laser radar;Noise reduction;Noise;Point cloud compression;Rain;Benchmark testing;Snow;Three-dimensional displays;Semantics;Annotations;Adverse Weather Dataset;Point Cloud Denosing;Robust LiDAR perception;Plug-and-Play Network},
+  doi={10.1109/TIP.2025.3629047}}
+```
+or
 ```bibtex
 @misc{zhao2024triplemixer3dpointcloud,
       title={TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather}, 
