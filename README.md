@@ -206,12 +206,11 @@ If you find our work useful in your research, please consider citing:
 @ARTICLE{11262787,
   author={Zhao, Xiongwei and Wen, Congcong and Zhu, Xu and Wang, Yang and Bai, Haojie and Dou, Wenhao},
   journal={IEEE Transactions on Image Processing}, 
-  title={TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising under Adverse Weather}, 
+  title={TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather}, 
   year={2025},
-  volume={},
+  volume={34},
   number={},
-  pages={1-1},
-  keywords={Laser radar;Noise reduction;Noise;Point cloud compression;Rain;Benchmark testing;Snow;Three-dimensional displays;Semantics;Annotations;Adverse Weather Dataset;Point Cloud Denosing;Robust LiDAR perception;Plug-and-Play Network},
+  pages={7712-7727},
   doi={10.1109/TIP.2025.3629047}}
 ```
 or
