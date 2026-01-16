@@ -166,6 +166,8 @@ For other datasets, make the corresponding modifications accordingly.
 ### 2) Evaluation and Test
 Pre-trained models can be downloaded from [Download link](https://drive.google.com/drive/folders/1ay1vbnu-q0zepzhQ8OKyYugzLVa9uSUu?usp=drive_link)
 
+We follow the data preprocessing pipeline of **3D_OutDet** ([https://github.com/sporsho/3D_OutDet](https://github.com/sporsho/3D_OutDet)). Before evaluation, please run `./datasets/remove_duplicate.py` to remove duplicate point cloud data, and then remap the original labels of the WADS dataset to make them compatible with TripleMixer.
+
 To evaluate the Wads dataset, run:
 ```
 cd test
