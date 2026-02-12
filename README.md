@@ -1,7 +1,7 @@
 <p align="center">
   <img src="figs/tri.png" align="center" width="22.5%">
   
-  <h3 align="center"><strong>TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising under Adverse Weather</strong></h3>
+  <h3 align="center"><strong>[IEEE TIP 2025] TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising under Adverse Weather</strong></h3>
 
   <p align="center">
       <a href="https://scholar.google.com.sg/citations?user=miv8T6MAAAAJ&hl=zh-CN" target='_blank'>Xiongwei Zhao</a><sup>1*</sup>&nbsp;&nbsp;&nbsp;
