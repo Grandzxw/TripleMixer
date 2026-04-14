@@ -189,7 +189,7 @@ For other datasets, make the corresponding modifications accordingly.
 
 
 ## Dataset Generation
-You can generate your own Adverse Weather Dataset on other LiDAR-based point cloud datasets using the code provided in the **tools directory** of this repository!
+You can generate your own Adverse Weather Dataset on other LiDAR-based point cloud datasets using the code provided in the **tools directory** of this repository and our recently proposed [WeatherVerse](https://github.com/Grandzxw/WeatherVerse).
 
 
 ## TODO List
